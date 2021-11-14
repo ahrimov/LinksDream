@@ -1,0 +1,39 @@
+.info{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.info h2{
+  text-align: center;
+}
+
+#scoreTable{
+  width: 800px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+}
+
+thead{
+  background-color: #F7F3E3;
+}
+
+th {
+  font-weight: normal;
+  color: #039;
+  padding: 10px 15px;
+}  
+
+td {
+  color: #669;
+  border-top: 1px solid #e8edff;
+  padding: 10px 15px;
+  text-align: center;
+}
+
+tr:hover td {
+  background: #e8edff;
+}
+

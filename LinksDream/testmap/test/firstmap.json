@@ -1,0 +1,54 @@
+{ "compressionlevel":-1,
+ "height":10,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[114, 115, 115, 115, 115, 115, 115, 115, 115, 116, 130, 131, 131, 131, 131, 131, 131, 131, 131, 132, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 34, 34, 18, 18, 13, 13, 18, 18, 18, 18, 18, 34, 34, 34, 18, 13, 13, 18, 18, 18, 18, 18, 18, 34, 34, 18, 18, 13, 13, 18, 18, 18, 18, 18, 34, 34, 18, 18, 13, 18, 18, 18, 18, 18, 18, 34, 34, 18, 18, 18, 18, 18, 18, 18, 18, 18, 34, 34, 34, 18, 18, 18, 18, 18, 18, 18, 18, 18, 34, 34],
+         "height":10,
+         "id":1,
+         "name":"\u0421\u043b\u043e\u0439 \u0442\u0430\u0439\u043b\u043e\u0432 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.7.2",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "columns":8,
+         "firstgid":1,
+         "image":"..\/usedTexture\/TX Tileset Grass.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"TX Tileset Grass",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":65,
+         "image":"..\/usedTexture\/TX Tileset Wall.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"TX Tileset Wall",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":"1.6",
+ "width":10
+}

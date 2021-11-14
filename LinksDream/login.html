@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Link's Dream</title>
+	</head>
+	<body>
+		<div class="info">
+			<h2>Link's Dream</h2>
+			<div class="describe">
+				<p> На землях Хайрула наступило спокойствие. Отважный герой победил Ганондорфа и спас принцессу Хайрула Зельду. И всё бы ничего, но внезапно обноружилось, что могущественный артефакт Triforce пропал. Если он попадёт не в те руки... Слушай, тебе нужно как можно скорее найти артефакт! </p> 
+			</div>
+			<div class="inputForm">
+				<label>Введите своё имя:
+				<br />
+				<input type="text" placeholder="Link" id="userName" />
+				</label>
+				<input type="submit" value = "Начать" onclick="saveName()">
+			</div>
+		</div>
+	</body>
+	<script>
+
+		function saveName(){
+			var actualName = document.getElementById("userName").value;
+			if(actualName){
+				localStorage["username"] = actualName;
+				window.location = "game.html"
+			}
+			else{
+				window.alert("Пожалуйста, введите своё имя");
+			}
+		}
+
+	</script>
+	<link rel='stylesheet' href="./style/login.css"></link> 
+</html>

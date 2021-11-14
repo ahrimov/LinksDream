@@ -1,0 +1,2 @@
+gameManager.loadAll();
+gameManager.play();

@@ -1,0 +1,18 @@
+.game{
+	width: 70%;
+	margin-left:  auto;
+	margin-right: auto;
+}
+
+#canvasId{
+	border: 1px solid;
+	float: left;
+}
+
+#info{
+	float: left;
+}
+
+.info{
+	margin-left: 100px;
+}

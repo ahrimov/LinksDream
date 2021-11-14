@@ -1,0 +1,147 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "test/dungeon.json",
+    "expandedProjectPaths": [
+        "test"
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "test/dungeon.json": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 193.33333333333337,
+                "y": 300
+            }
+        },
+        "test/dungeon.json#Props": {
+            "scaleInDock": 1
+        },
+        "test/dungeon.json#Stone Ground": {
+            "scaleInDock": 1
+        },
+        "test/dungeon.json#Struct": {
+            "scaleInDock": 1
+        },
+        "test/dungeon.json#Wall": {
+            "scaleInDock": 1
+        },
+        "test/dungeon.json#black": {
+            "scaleInDock": 1
+        },
+        "test/dungeon.json#triForce": {
+            "scaleInDock": 1
+        },
+        "test/firstLevel.json": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 688,
+                "y": 297.3333333333333
+            }
+        },
+        "test/firstLevel.json#Grass": {
+            "scaleInDock": 1
+        },
+        "test/firstLevel.json#Plant": {
+            "scaleInDock": 1
+        },
+        "test/firstLevel.json#Props": {
+            "scaleInDock": 1
+        },
+        "test/firstLevel.json#StoneGround": {
+            "scaleInDock": 1
+        },
+        "test/firstLevel.json#Struct": {
+            "scaleInDock": 1
+        },
+        "test/firstLevel.json#Wall": {
+            "scaleInDock": 1
+        },
+        "test/firstmap.json": {
+            "scale": 1.1993749999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 159.24960917144347,
+                "y": 160.50026055237103
+            }
+        },
+        "test/firstmap.json#TX Tileset Grass": {
+            "scaleInDock": 1
+        },
+        "test/firstmap.json#TX Tileset Wall": {
+            "scaleInDock": 1
+        },
+        "test/secondLevel.json": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 646,
+                "y": 575.5
+            }
+        },
+        "test/secondLevel.json#Grass": {
+            "scaleInDock": 1
+        },
+        "test/secondLevel.json#Plant": {
+            "scaleInDock": 1
+        },
+        "test/secondLevel.json#Props": {
+            "scaleInDock": 1
+        },
+        "test/secondLevel.json#Shadow": {
+            "scaleInDock": 1
+        },
+        "test/secondLevel.json#Struct": {
+            "scaleInDock": 1
+        },
+        "test/secondLevel.json#Wall": {
+            "scaleInDock": 1
+        },
+        "test/testmainMap.json": {
+            "scale": 1.1993749999999999,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 160.08337675872852,
+                "y": 160.91714434601357
+            }
+        },
+        "test/testmainMap.json#TX Tileset Grass": {
+            "scaleInDock": 1
+        },
+        "test/testmainMap.json#TX Tileset Wall": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "/home/user/web-project/kursach/testmap/Texture",
+    "map.height": 40,
+    "map.lastUsedFormat": "json",
+    "map.width": 20,
+    "openFiles": [
+        "test/testmainMap.json",
+        "test/firstLevel.json",
+        "test/firstmap.json",
+        "test/secondLevel.json",
+        "test/dungeon.json"
+    ],
+    "project": "kursach.tiled-project",
+    "recentFiles": [
+        "test/testmainMap.json",
+        "test/firstLevel.json",
+        "test/firstmap.json",
+        "test/secondLevel.json",
+        "test/dungeon.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}

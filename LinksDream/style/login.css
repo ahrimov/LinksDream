@@ -1,0 +1,22 @@
+.info {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.info h2{
+	text-align: center;
+}
+
+.describe{
+	text-align: left;
+    border: 3px solid;
+    border-radius: 10px;
+    background: #F7F3E3;
+    font-family: "Monotype Corsiva" Cursive;
+    padding:10px;
+}
+
+
+
+
